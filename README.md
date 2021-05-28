@@ -1,7 +1,7 @@
 <h1 align="center">Page-Object-Model</h1>
 
 <p align="center">  
-This application is built to import invoices in CSV format through a user interface by utilising the __Import Data__ function.
+This application is built to import invoices in CSV format through a user interface by utilising the Import data function.
 The automated UI test Logs In and import a CSV file to any upload software.
 </p>
 
